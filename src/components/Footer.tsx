@@ -19,7 +19,7 @@ export const Footer = () => {
 				/>
 				&nbsp;using&nbsp;
 				<a
-					href="https://github.com/lostgirljourney/social-sphere"
+					href="https://react.dev/"
 					target="_blank"
 					rel="noopener noreferrer"
 					className={`inline-block ${
