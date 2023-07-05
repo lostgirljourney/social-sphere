@@ -1,6 +1,6 @@
 # Social Sphere
 
-This is my website which shows all my links at a single place.
+This is my website which shows all my links in a single place.
 
 Here's the [link ↗](https://mysocialsphere.vercel.app/) to visit it.
 
